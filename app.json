@@ -1,14 +1,14 @@
 {
     "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
     "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-    "logo": "https://telegra.ph/file/32f106d692ff33700c464.jpg",
+    "logo": "https://graph.org/file/581a59b9d3816044fa559.jpg",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
-    "success_url": "https://t.me/AdityaDiscus",
+    "repository": "https://github.com/electricalscammer/musicmashup",
+    "success_url": "https://t.me/Electric_Hacker_Team",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -38,7 +38,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://github.com/electricalscammer/heroku-buildpack-ffmpeg-latest.git"
         }
     ]
     }
